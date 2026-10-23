@@ -1,0 +1,10 @@
+{
+  "name": "BYTECHAT",
+  "short_name": "BYTECHAT",
+  "description": "Your world. Your messages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b141a",
+  "theme_color": "#075e54",
+  "icons": []
+}
